@@ -11,13 +11,20 @@ h1 {
     margin: 20px 0;
     color: #934a4a;
 }
-h
 
 .container {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 20px 10%;
+    
+}
+.container-h1 {
+  text-align: center;
+}
+
+.container-ul {
+  justify-content: center;
 }
 
 nav ul {
