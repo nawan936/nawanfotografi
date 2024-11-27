@@ -41,7 +41,7 @@ nav ul li a:hover {
     background: url('images/hero.jpg') no-repeat center center/cover;
     color: white;
     text-align: center;
-    height: 100vh;
+    height: 50vh;
     display: flex;
     justify-content: center;
     align-items: center;
