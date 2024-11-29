@@ -14,17 +14,18 @@ h1 {
 h
 
 .container {
-    display: flex;
-    justify-content: space-between;
-    justify-content: center;
-    align-items: center;
-    padding: 20px 10%;
-    color: #934a4a;
+   
 }
 
 .container-h1 {
   display: flex;
   text-align: center;
+  display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 10%;
+    color: #934a4a;
 }
 
 .container-ul {
