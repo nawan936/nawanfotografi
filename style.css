@@ -11,20 +11,23 @@ h1 {
     margin: 20px 0;
     color: #934a4a;
 }
+h
+
 .container {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 20px 10%;
-  color: #934a4a;
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 10%;
+    color: #934a4a;
 }
 
 .container-h1 {
-  
+  text-align: center;
 }
 
 .container-ul {
-  tex-align: center;
+  justify-content: center;
 }
 
 nav ul {
