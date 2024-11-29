@@ -16,10 +16,11 @@ h1 {
   justify-content: space-between;
   align-items: center;
   padding: 20px 10%;
+  color: #934a4a;
 }
 
 .container-h1 {
-  text-align: center;
+  
 }
 
 .container-ul {
